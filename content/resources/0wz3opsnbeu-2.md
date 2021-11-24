@@ -1,0 +1,10 @@
+---
+content_type: resource
+description: ''
+file: null
+file_location: /coursemedia/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/a2a271c091cc5445b6ce96f8233bce73_0wZ3OpSnbEU.vtt
+file_type: application/x-subrip
+resourcetype: Other
+title: 3play caption file
+uid: a2a271c0-91cc-5445-b6ce-96f8233bce73
+---
